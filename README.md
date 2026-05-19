@@ -1,2 +1,1 @@
-# Nuer_students_registration_form
 Registration form
